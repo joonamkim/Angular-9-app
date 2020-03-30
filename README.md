@@ -1,6 +1,9 @@
-# MyDreamApp
+# Angular 9 sample app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+
+# Deployed to 
+https://myapplication-471a9.firebaseapp.com/
 
 ## Development server
 
